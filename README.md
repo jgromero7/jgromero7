@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a FullStack Web Developer.<br>🌱 I'm currently learning about Docker, Kafka, Hexagonal Architecture, and Domain-Driven Design (DDD) to enhance my expertise.<br>👯 I'm looking to collaborate on exciting web development projects and open-source initiatives.<br>💬 Ask me about web development, code review.<br>📫 You can reach me or connect via [LinkedIn](https://www.linkedin.com/in/jgromero7/).<br>😄 Pronouns He/Him<br>⚡ I enjoy sports, especially first-person video games, and I love traveling and exploring new places.
+🔭 I'm currently working as a FullStack Web Developer.<br>🌱 I'm currently learning about Docker, Kafka, Hexagonal Architecture, and Domain-Driven Design (DDD) to enhance my expertise.<br>👯 I'm looking to collaborate on exciting web development projects and open-source initiatives.<br>💬 Ask me about web development, code review.<br>📫 You can reach me via email at *josegromero7@gmail.com* or connect with me on [LinkedIn](https://www.linkedin.com/in/jgromero7/).<br>😄 Pronouns He/Him<br>⚡ I enjoy sports, especially first-person video games, and I love traveling and exploring new places.
 
 
 ## 🌐 Socials:
